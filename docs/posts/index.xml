@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Yitong Zou</title>
+    <link>https://zouyitong.github.io/posts/</link>
+    <description>Recent content in Posts on Yitong Zou</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="https://zouyitong.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Me</title>
+      <link>https://zouyitong.github.io/posts/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zouyitong.github.io/posts/about/</guid>
+      <description>My name is Yitong (Amanda) Zou.
+I am currently a Master of Financial Engineering student at Cornell University. You can find my education here.
+I also have several project experiences.
+Things I do in spare time.
+Thank you for taking the time to visit my website. If you have any questions or just want to say hello, feel free to contact me via email.</description>
+    </item>
+    
+    <item>
+      <title>Education</title>
+      <link>https://zouyitong.github.io/posts/education/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zouyitong.github.io/posts/education/</guid>
+      <description>Cornell University
+Master of Engineering in Financial Engineering (Expected 2023.12)
+Selected Courses: Intro to Machine Learning, Stochastic Calculus, Big Data Techniques, Valuation Principles, Python for Finance
+University of Michigan, Ann Arbor
+Bachelor of Science in Mathematics (2022.04)
+Bachelor of Science in Economics (2022.04)
+Selected Courses: Linear Algebra, Advanced Calculus, Probability Theory, Mathematical Statistics, Abstract Algebra, Intermediate Econometrics
+Back to About Me</description>
+    </item>
+    
+    <item>
+      <title>Interests</title>
+      <link>https://zouyitong.github.io/posts/interests/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zouyitong.github.io/posts/interests/</guid>
+      <description>Photography Travelling Piano Baking Back to About Me</description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://zouyitong.github.io/posts/project/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://zouyitong.github.io/posts/project/</guid>
+      <description>Spring 2023: ORIE 5370 Optimization Modeling in Finance
+Project Name: Long-Short trading strategy in Machine Learning The objective of our project is to develop and implement a Long-Short trading strategy based on machine learning techniques and optimization methods. We will construct our portfolio based on ML selected ranking factors which have strong correlation with well-performed/bad-performed stocks to maximize expected returns and minimize risk. Our focus is on all the stocks in the Russell 3000 index, and we will consider a range of macro, fundamental, and risk factors as potential predictors of stock performance.</description>
+    </item>
+    
+  </channel>
+</rss>
